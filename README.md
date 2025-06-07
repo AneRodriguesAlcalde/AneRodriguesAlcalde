@@ -30,7 +30,7 @@ Bem-vinda(o) ao meu espaço no GitHub! Sou apaixonada por tecnologia, segurança
 
 ## 📬 Vamos nos conectar?
 
-- ✉️ Email: ane.rodriguess@email.com
+- ✉️ Email: ane.rodriguess@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/adriane-rodrigues-alcalde-590585347/
 - 💻 GitHub: [github.com/AneRodriguesAlcalde](https://github.com)
 
