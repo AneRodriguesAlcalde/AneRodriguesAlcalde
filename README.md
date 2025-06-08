@@ -6,6 +6,7 @@ Bem-vinda(o) ao meu espaço no GitHub! Sou apaixonada por tecnologia, segurança
 
 - 🎓 Estudante de Cyber Security – em transição de carreira
 - 💼 Atualmente comissária de voo
+- 🌎 Vivência de 1 ano nos EUA (Atlanta/GA) como au pair – inglês avançado 
 - 💡 Estudando Python, redes, segurança da informação e inteligência artificial
 - 🧱 Paralelamente, estou construindo uma chácara, aplicando organização e visão de negócio
 
@@ -27,6 +28,10 @@ Bem-vinda(o) ao meu espaço no GitHub! Sou apaixonada por tecnologia, segurança
 - Curso de Python – Academify
 - Faculdade de Cyber Security (terceiro semestre)
 - Estudos diários com metas semanais, simulados e projetos práticos
+
+- 🌐 Idiomas  
+- 🇧🇷 Português – nativo  
+- 🇺🇸 Inglês – avançado (vivência internacional)
 
 ## 📬 Vamos nos conectar?
 
