@@ -1,6 +1,6 @@
 # ✈️ Olá, eu sou a Adriane (Ane)!
 
-Bem-vinda(o) ao meu espaço no GitHub! Sou apaixonada por tecnologia, segurança digital e também por construir sonhos — literalmente: de páginas HTML a uma chácara de fim de semana 💻🌿
+Bem-vinda(o) ao meu espaço no GitHub! Sou apaixonada por tecnologia e segurança digital. 💻
 
 ## 👩‍💻 Sobre mim
 
