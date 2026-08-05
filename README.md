@@ -1,45 +1,33 @@
-# ✈️ Olá, eu sou a Adriane (Ane)!
+# 👋 Olá, eu sou a Adriane (Ane)!
 
-Bem-vinda(o) ao meu espaço no GitHub! Sou apaixonada por tecnologia, segurança digital e por voar alto, tanto nas nuvens quanto na conquista dos meus objetivos. Estou em transição de carreira com foco, coragem e muita vontade de aprender e evoluir. 💻
+Sou graduanda no último semestre de **Defesa Cibernética** e estou em transição de carreira para **Cyber Security**, com interesse em **Blue Team, SOC e operações de segurança**.
+
+Minha trajetória profissional foi construída em ambientes críticos, regulados e de alta responsabilidade. Atualmente, desenvolvo minha base técnica por meio de cursos, estudos de caso e projetos acadêmicos disponíveis nos repositórios deste perfil.
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Estudante de Cyber Security – em transição de carreira
-- 💼 Atualmente comissária de voo
-- 🌎 Vivência de 1 ano nos EUA (Atlanta/GA) como au pair – inglês avançado 
-- 💡 Estudando Python, redes, segurança da informação e inteligência artificial
+* Graduanda em Defesa Cibernética — conclusão prevista para dezembro de 2026
+* Certificado Profissional de Segurança Cibernética do Google — em andamento
+* Formação complementar em Python, Cibersegurança e Forense Digital
+* Inglês avançado e experiência internacional em Atlanta, EUA
 
+## 🎯 Foco de desenvolvimento
 
-## 🔐 Áreas de Interesse
+* Blue Team e operações de SOC
+* Análise e documentação de incidentes
+* Avaliação de riscos e controles de segurança
+* Redes, Linux e SQL
+* Python aplicado à resolução de problemas
 
-- Segurança ofensiva e defensiva (Red Team / Blue Team)
-- Inteligência Artificial aplicada à cibersegurança
-- Scripts em Python para automação e análise
-- Práticas com ISO 27001, OWASP, firewalls e protocolos de rede
+## 🌎 Idiomas
 
-## 🚀 Projetos em andamento
+* Português — nativo
+* Inglês — avançado
 
-- 🛫 [Checklist pré-voo em HTML](#)
-- 🐍 Desafios práticos em Python para segurança
-- 🔧 Simulações de ataque e defesa em ambientes virtuais
+## 📫 Contato
 
-## 📚 Trilha de Aprendizado
-
-- Curso de Python – Academify
-- Faculdade de Cyber Security (terceiro semestre)
-- Estudos diários com metas semanais, simulados e projetos práticos
-
-- 🌐 Idiomas  
-- 🇧🇷 Português – nativo  
-- 🇺🇸 Inglês – avançado (vivência internacional)
-
-## 📬 Vamos nos conectar?
-
-- ✉️ Email: ane.rodriguess@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/adriane-rodrigues-alcalde-590585347/
-- 💻 GitHub: [github.com/AneRodriguesAlcalde](https://github.com)
-
----
+* [LinkedIn](https://www.linkedin.com/in/adriane-rodrigues-alcalde-590585347/)
+* E-mail: [ane.rodriguess@gmail.com](mailto:ane.rodriguess@gmail.com)
 
 _"Segurança é mais que um protocolo — é compromisso."_  
 — Ane Rodrigues Alcalde
