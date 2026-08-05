@@ -29,5 +29,5 @@ Minha trajetória profissional foi construída em ambientes críticos, regulados
 * [LinkedIn](https://www.linkedin.com/in/adriane-rodrigues-alcalde-590585347/)
 * E-mail: [ane.rodriguess@gmail.com](mailto:ane.rodriguess@gmail.com)
 
-_"Segurança é mais que um protocolo — é compromisso."_  
+_"Segurança é mais que um protocolo, é compromisso."_  
 — Ane Rodrigues Alcalde
