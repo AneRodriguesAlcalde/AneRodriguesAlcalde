@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Adriane (Ane)!
+#  Olá, eu sou a Adriane (Ane)!
 
 Sou graduanda no último semestre de **Defesa Cibernética** e estou em transição de carreira para **Cyber Security**, com interesse em **Blue Team, SOC e operações de segurança**.
 
